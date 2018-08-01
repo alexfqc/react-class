@@ -1,0 +1,18 @@
+.Header {
+  background-color: rebeccapurple;
+  box-sizing: border-box;
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 52px;
+  text-align: left;
+  font-size: 14px;
+  line-height: 3.3;
+  padding: 0 25px;
+}
+
+.Header-link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
