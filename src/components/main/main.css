@@ -1,0 +1,7 @@
+main {
+  box-sizing: border-box;
+  float: left;
+  padding: 25px;
+  position: relative;
+  width: 100%;
+}
